@@ -1,0 +1,9 @@
+Today i have prepared about IAM users 
+I have created one iam users, 
+I have try to log in that user without giving any permissions i have try to access in AWS account,
+In that i have try to access the s3 bucket its logd in 
+After that It dosen't show the existing s3 bucket,
+Attaching aws police to the above created user,
+Then I have added the S3 full access permission to the user,
+I have try to log in again now it will show the all existing s3 buckets access
+Like wise iam prepared today
