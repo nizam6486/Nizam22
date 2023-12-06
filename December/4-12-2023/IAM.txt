@@ -1,1 +1,0 @@
-Today I am Preparing IAM and Practicing creating the users and groups to attach the policies, and how to use the Access key and cloud shell in IAM, like I am preparing Anna.
